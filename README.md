@@ -35,12 +35,12 @@ Any terminal or IDE that supports C programming
 ## Screenshots
 
 ### Program Code
-![ATM Program Code](Screenshot 01.png)
-![ATM Program Code](Screenshot 02.png)
+![ATM Program Code](https://github.com/Sundaram790/ATM-Simulator-C/blob/main/Screenshot%2001.png?raw=true)
+![ATM Program Code]()
 
 ### Program Output
-![ATM Program Output](Screenshot 03.png)
-![ATM Program Output](Screenshot 04.png)
+![ATM Program Output]()
+![ATM Program Output]()
 
 
 This project is licensed under the MIT License – see the LICENSE file for details.
