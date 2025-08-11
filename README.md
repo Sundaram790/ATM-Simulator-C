@@ -32,7 +32,15 @@ C Compiler (e.g., GCC)
 
 Any terminal or IDE that supports C programming
 
-Screenshots 
+## Screenshots
+
+### Program Code
+![ATM Program Code](Screenshot 01.png)
+![ATM Program Code](Screenshot 02.png)
+
+### Program Output
+![ATM Program Output](Screenshot 03.png)
+![ATM Program Output](Screenshot 04.png)
 
 
 This project is licensed under the MIT License – see the LICENSE file for details.
