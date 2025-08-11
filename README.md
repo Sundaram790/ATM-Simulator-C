@@ -41,7 +41,7 @@ Any terminal or IDE that supports C programming
 ### Program Output
 ![ATM Program Output](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1082a63b-5338-45a4-b688-b6b509a9fa2e" />
 )
-![ATM Program Output]()
+![ATM Program Output](https://github.com/Sundaram790/ATM-Simulator-C/blob/main/Screenshot%2004.png?raw=true)
 
 
 This project is licensed under the MIT License – see the LICENSE file for details.
