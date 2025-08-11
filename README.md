@@ -1,2 +1,38 @@
 # ATM-Simulator-C
-ATM Simulator in C — A console-based ATM project with PIN authentication, cash withdrawal, balance inquiry, and mini statement tracking.
+A simple ATM simulator program written in C using basic concepts like conditional statements, loops, and I/O.
+It allows users to withdraw cash, check balance, and view a mini statement after successful PIN verification.
+
+Features
+PIN Verification – Secure access with a 4-digit PIN.
+
+Cash Withdrawal – Withdraw money in multiples of 100 (with balance check).
+
+Check Balance – View current account balance.
+
+Mini Statement – Shows total amount withdrawn so far and remaining balance.
+
+Notes
+The program uses dollar ($) symbol instead of rupee (₹) because the developer’s keyboard does not have the rupee symbol.
+
+The default PIN and balance are hardcoded for demonstration purposes.
+
+Example Output:
+
+=== ATM Machine ===
+Enter your 4-digit PIN: 7909
+PIN verified. Welcome!
+
+--- Main Menu ---
+1. Withdraw Cash
+2. Check Balance
+3. Mini Statement
+4. Exit
+Requirements
+C Compiler (e.g., GCC)
+
+Any terminal or IDE that supports C programming
+
+Screenshots 
+
+
+This project is licensed under the MIT License – see the LICENSE file for details.
