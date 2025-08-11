@@ -36,7 +36,7 @@ Any terminal or IDE that supports C programming
 
 ### Program Code
 ![ATM Program Code](https://github.com/Sundaram790/ATM-Simulator-C/blob/main/Screenshot%2001.png?raw=true)
-![ATM Program Code]()
+![ATM Program Code](https://github.com/Sundaram790/ATM-Simulator-C/blob/main/Screenshot%2002.png?raw=true)
 
 ### Program Output
 ![ATM Program Output]()
