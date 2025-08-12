@@ -1,8 +1,8 @@
-# ATM-Simulator-C
+# ATM-Simulator-C😊
 A simple ATM simulator program written in C using basic concepts like conditional statements, loops, and I/O.
 It allows users to withdraw cash, check balance, and view a mini statement after successful PIN verification.
 
-Features
+Features⚙️
 PIN Verification – Secure access with a 4-digit PIN.
 
 Cash Withdrawal – Withdraw money in multiples of 100 (with balance check).
