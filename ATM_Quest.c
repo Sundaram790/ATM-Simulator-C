@@ -29,27 +29,27 @@ do {
     scanf("%d", &choice);
     
     if (choice == 1) {
-        printf("Enter amount to withdraw : \n$");
+        printf("Enter amount to withdraw : \nRs. ");
         scanf("%d", &Amount); 
         
         if (Amount <= 0) {
             printf("Invalid amount.\n");
         } else if (Amount % 100 != 0) {
-            printf("Amount must be in multiples of $100.\n");
+            printf("Amount must be in multiples of Rs. 100.\n");
         } else if (Amount > Balance) {
             printf("Insufficient balance.\n");
         } else {
             Balance -= Amount;
             TotalWithdrawn += Amount;
-            printf("Please collect your cash : $%d\n", Amount);
+            printf("Please collect your cash : Rs. %d\n", Amount);
             }
             
         } else if (choice == 2) {
-            printf("Your current Balance : $%d\n",Balance);
+            printf("Your current Balance : Rs. %d\n",Balance);
         } else if (choice == 3) {
             printf("===Mini Statement===\n");
-            printf("Total withdrawn so far $%d\n", TotalWithdrawn);
-            printf("Current Balance : $%d\n", Balance);
+            printf("Total withdrawn so far Rs. %d\n", TotalWithdrawn);
+            printf("Current Balance : Rs. %d\n", Balance);
         } 
           else if (choice == 4) {
             printf("Thank you for using our ATM. Goodbye!\n");
@@ -61,4 +61,5 @@ do {
     
 
 return 0;
+
 }
